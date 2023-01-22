@@ -27,7 +27,7 @@ Data preparation comprises the following steps:
 * Opening the countries GeoJSON dataset `cate.ds.data.countries/countries-110m.geojson` 
 * Select European countries Features from countries dataset.
 * Use European countries to spatially subset the Fire dataset.
-* Generate annual maximum values of the Fire dataset.
+* Generate annual sums of burned areas of the Fire dataset.
 * Group the annual Fire dataset by country codes.
 * Generate the sums of burned areas for each country.
 * Put burned area sums in a data frame and save a CSV file `data/ba-europe-countries.csv`.
