@@ -30,7 +30,9 @@ Data preparation comprises the following steps:
 * Generate annual sums of burned areas of the Fire dataset.
 * Group the annual Fire dataset by country codes.
 * Generate the sums of burned areas for each country.
-* Put burned area sums in a data frame and save a CSV file `data/ba-europe-countries.csv`.
+* Put burned area sums in a data frame and save a CSV files 
+  `data/ba-europe-countries.csv` and the cumulative sums in 
+  `data/ba-europe-countries-cumsums.csv`. The units are square meters.
 
 ### One-time script setup
 
