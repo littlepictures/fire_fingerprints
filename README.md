@@ -10,7 +10,7 @@
 
 ## Data Sources
 
-The CLIP uses the following dataset:
+The CLIP uses the following datasets:
 
 - [ESA Fire CCI: MODIS Fire_cci Burned Area Pixel product, version 5.1](https://catalogue.ceda.ac.uk/uuid/58f00d8814064b79a0c49662ad3af537), 
   Cate dataset identifier: `esacci.FIRE.mon.L4.BA.MODIS.Terra.MODIS_TERRA.v5-1.grid`.
