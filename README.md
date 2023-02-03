@@ -1,4 +1,4 @@
-# CLIP #05 - Burning Lands <img style="float: right;" src="https://trevalabs.com/wp-content/uploads/2022/12/trevelabs_logo.png" width="180">
+# CLIP #05 - Burning Lands <img style="float: right;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
 <hr>
 
 ## TrevaLabs
