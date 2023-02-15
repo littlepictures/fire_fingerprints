@@ -70,7 +70,6 @@ Note you can also use the JupyterLab's **Git** extension (left side bar) to upda
 
 Creating the visualizations comprises the following steps:
 
-* Opening the Fire CCI dataset `esacci.FIRE.mon.L4.BA.MODIS.Terra.MODIS_TERRA.v5-1.grid`.
 * save the ba-europe-countries.csv file and the jupyter notebook named treva_labs_clip_fire_fingerprints.ipynb from the scripts folder into a location of your choice
 * run the jupyter notebook named treva_labs_clip_fire_fingerprints.ipynb from the scripts folder
 * the notebook iterates over the csv and saves two altair visualizations per country into an output folder
