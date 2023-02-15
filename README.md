@@ -67,14 +67,15 @@ git pull --rebase
 Note you can also use the JupyterLab's **Git** extension (left side bar) to update the repos.
 
 ## Creating Visualizations
-[STEP BY STEP DESCRIPTION ON WHAT THE DATA PROCESSING PROCESS. SHOULD BEGIN WITH A SHORT SUMMARY OF THE OVERALL PROCESS]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at vestibulum nulla, ac tincidunt sem. Morbi in nisl at nisl feugiat faucibus sed eu neque. In fringilla, odio eu porttitor condimentum, tortor leo congue justo, id venenatis metus lectus sed libero. Mauris id arcu eros. Sed orci mauris, tincidunt nec ex non, eleifend pellentesque dolor. Mauris tellus ligula, tincidunt accumsan sapien accumsan, pellentesque rhoncus ex. Phasellus sollicitudin dolor eget porttitor gravida. Integer malesuada vehicula ante, ac interdum felis congue nec. Mauris in sagittis felis. 
+Creating the visualizations comprises the following steps:
 
-To create a new visualization, follow these steps:
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at vestibulum nulla, ac tincidunt sem. Morbi in nisl at nisl feugiat faucibus sed eu neque. 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at vestibulum nulla, ac tincidunt sem. Morbi in nisl at nisl feugiat faucibus sed eu neque. 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at vestibulum nulla, ac tincidunt sem. Morbi in nisl at nisl feugiat faucibus sed eu neque. 
+* Opening the Fire CCI dataset `esacci.FIRE.mon.L4.BA.MODIS.Terra.MODIS_TERRA.v5-1.grid`.
+* save the ba-europe-countries.csv file and the jupyter notebook named treva_labs_clip_fire_fingerprints.ipynb from the scripts folder into a location of your choice
+* run the jupyter notebook named treva_labs_clip_fire_fingerprints.ipynb from the scripts folder
+* the notebook iterates over the csv and saves two altair visualizations per country into an output folder
+* the notebook can be run locally or on hosted services like Google Colab
+* the resulting visualizations are saved as html files according to their country names
 
 ## CREDITS & LICENSE
 - Idea by: [Ubilabs](https://www.ubilabs.com/)
