@@ -6,7 +6,9 @@
 [TrevaLabs](https://www.TrevaLabs.com) is a collective of climate data visualisation creatives in Europe, brought together by the desire to make a big impact with little pictures. Its mission is to rapidly create little pictures of climate for maximal human impact, and the vision is to reach every European by the end of decade with a little picture on Climate.
 
 ## Background on this CLIP
-[SHORT DESCRIPTION ON WHAT THE CLIP SHOWS AND WHY IT MATTERS IN TERMS OF CLIMATE DATAVIZ (500-600 CHARACTERS)]
+Europe has a diverse and complex history of wildfires, with different regions and countries experiencing unique patterns of fire activity. In the Mediterranean region, for example, wildfires are a recurrent threat, with high frequency during the hot and dry summer months. In Portugal, extensive areas of forest and rural land have been affected by wildfires, leading to ecological and economic impacts. In Northern Europe on the other hand, wildfires are less frequent but still occur, often associated with periods of prolonged drought and heatwaves. 
+
+The unique patterns of wildfire activity in Europe create distinct fingerprints in satellite data that allow scientists to track and analyze burned areas over time. This was the underlying idea of the little picture shown below: Using data ranging from the early 2000s up to 2020 each horizontal line symbolizes  the share of burned area over the complete timespan. For Example x percent of the area burned in Norway between 2001 and 2020 has been burned in 20XX.
 
 ## Data Sources
 
@@ -75,8 +77,8 @@ To create a new visualization, follow these steps:
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at vestibulum nulla, ac tincidunt sem. Morbi in nisl at nisl feugiat faucibus sed eu neque. 
 
 ## CREDITS & LICENSE
-- Idea by: [INSTITUTION](https://climate.esa.int/)
-- Processing Scripts by: [INSTITUTION](https://climate.esa.int/)
-- Visualization by: [INSTITUTION](https://climate.esa.int/)
+- Idea by: [Ubilabs](https://www.ubilabs.com/)
+- Processing Scripts by: [Brockmann Consult](https://climate.esa.int/)
+- Visualization by: [Ubilabs](https://www.ubilabs.com/)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
