@@ -8,7 +8,7 @@
 ## Background on this CLIP
 Europe has a diverse and complex history of wildfires, with different regions and countries experiencing unique patterns of fire activity. In the Mediterranean region, for example, wildfires are a recurrent threat, with high frequency during the hot and dry summer months. In Portugal, extensive areas of forest and rural land have been affected by wildfires, leading to ecological and economic impacts. In Northern Europe on the other hand, wildfires are less frequent but still occur, often associated with periods of prolonged drought and heatwaves. 
 
-The unique patterns of wildfire activity in Europe create distinct fingerprints in satellite data that allow scientists to track and analyze burned areas over time. This was the underlying idea of the little picture shown below: Using data ranging from the early 2000s up to 2020 each horizontal line symbolizes  the share of burned area over the complete timespan. For Example x percent of the area burned in Norway between 2001 and 2020 has been burned in 20XX.
+The unique patterns of wildfire activity in Europe create distinct fingerprints in satellite data that allow scientists to track and analyze burned areas over time. This was the underlying idea of the little picture shown below: Using data ranging from the early 2000s up to 2020 each horizontal line symbolizes  the share of burned area over the complete timespan. For Example 22% percent of the area burned in Norway between 2001 and 2020 did so in 2003.
 
 ## Data Sources
 
