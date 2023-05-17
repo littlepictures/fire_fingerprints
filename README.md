@@ -1,9 +1,4 @@
-# CLIP - Fire Fingerprints <img style="float: right;" src="https://raw.githubusercontent.com/trevalabs/.github/main/logos/trevelabs_logo.png" width="180">
-<hr>
-
-## TrevaLabs
- 
-[TrevaLabs](https://www.TrevaLabs.com) is a collective of climate data visualisation creatives in Europe, brought together by the desire to make a big impact with little pictures. Its mission is to rapidly create little pictures of climate for maximal human impact, and the vision is to reach every European by the end of decade with a little picture on Climate.
+# CLIP - Fire Fingerprints 
 
 ## Background on this CLIP
 Europe has a diverse and complex history of wildfires, with different regions and countries experiencing unique patterns of fire activity. In the Mediterranean region, for example, wildfires are a recurrent threat, with high frequency during the hot and dry summer months. In Portugal, extensive areas of forest and rural land have been affected by wildfires, leading to ecological and economic impacts. In Northern Europe on the other hand, wildfires are less frequent but still occur, often associated with periods of prolonged drought and heatwaves. 
