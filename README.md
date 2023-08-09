@@ -1,9 +1,14 @@
-# CLIP - Fire Fingerprints 
+# little picture - fire fingerprints
 
-## Background on this CLIP
-Europe has a diverse and complex history of wildfires, with different regions and countries experiencing unique patterns of fire activity. In the Mediterranean region, for example, wildfires are a recurrent threat, with high frequency during the hot and dry summer months. In Portugal, extensive areas of forest and rural land have been affected by wildfires, leading to ecological and economic impacts. In Northern Europe on the other hand, wildfires are less frequent but still occur, often associated with periods of prolonged drought and heatwaves. 
+## Background on this little picture
+_inspired by #showyourstripes we represent annual burned area for Ireland_
 
-The unique patterns of wildfire activity in Europe create distinct fingerprints in satellite data that allow scientists to track and analyze burned areas over time. This was the underlying idea of the little picture shown below: Using data ranging from the early 2000s up to 2020 each horizontal line symbolizes  the share of burned area over the complete timespan. For Example 22% percent of the area burned in Norway between 2001 and 2020 did so in 2003.
+Monitoring wildfires from space is crucial for understanding their impact on climate, including the release of greenhouse gases &amp; aerosols that influence the Earth system.
+
+Satellites, such as Copernicus Sentinel-2 &amp; -3 capture optical, infrared &amp; thermal data globally, over decades to map &amp; assess fire-affected regions.
+This data-driven approach enhances climate understanding, identifies long-term trends and improves the models used to predict future change and prepare for future fire events. The graphic represents the annual burned area across Ireland between 2001 to 2020.
+
+https://climate.esa.int/en/little-pictures-gallery/Fire-fingerprints/
 
 ## Data Sources
 
