@@ -66,7 +66,7 @@ git pull --rebase
 
 Note you can also use the JupyterLab's **Git** extension (left side bar) to update the repos.
 
-## Creating Visualizations
+## Creating Visualisations
 
 Creating the visualizations comprises the following steps:
 
