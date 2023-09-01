@@ -79,6 +79,6 @@ Creating the visualizations comprises the following steps:
 ## CREDITS & LICENSE
 - Idea by: [Ubilabs](https://www.ubilabs.com/)
 - Processing Scripts by: [Brockmann Consult](https://climate.esa.int/)
-- Visualization by: [Ubilabs](https://www.ubilabs.com/)
+- Visualisation by: [Ubilabs](https://www.ubilabs.com/)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
